@@ -15,7 +15,7 @@ const details = [
   {
     title: "Portfolio Website",
     image: portfilioImage,
-    link: "https://example.com/portfolio",
+    link: "https://MoneeC02.github.io/Portfilio/",
   },
   {
     title: "To-Do Web Application",
