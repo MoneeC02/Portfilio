@@ -20,7 +20,7 @@ const details = [
   {
     title: "To-Do Web Application",
     image: todoImage,
-    link: "https://github.com/MoneeC02/Simple-To-Do-List",
+    link: "https://github.com/MoneeC02/ToDo-WebApplication",
   },
   {
     title: "Charity Gala Event Platform",

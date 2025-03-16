@@ -22,7 +22,7 @@ function Home() {
               <span className="text-3xl sm:text-4xl">Front-End Developer</span>
             </h2>
             <a
-              href="https://drive.google.com/file/d/12oMD_d1SKnViOIMXCgEh-sn7T1O7qhG5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1pUOo1kzVpUql_7AhUtiazfMUJfU_iJDY/view?usp=sharing"
               download="K.P.W.M.Chameli CV.pdf"
               className="mt-6 sm:mt-10 inline-block px-6 py-3 bg-slate-300 text-blue-950 font-semibold rounded-lg hover:bg-slate-500 transition-all"
             >
