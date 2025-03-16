@@ -10,7 +10,7 @@ const details = [
   {
     title: "Eco Project",
     image: ecoImage,
-    link: "https://example.com/eco",
+    link: "https://github.com/MoneeC02/FirstYear---MiniProject",
   },
   {
     title: "Portfolio Website",
@@ -20,17 +20,17 @@ const details = [
   {
     title: "To-Do Web Application",
     image: todoImage,
-    link: "https://example.com/todo",
+    link: "https://github.com/MoneeC02/Simple-To-Do-List",
   },
   {
     title: "Charity Gala Event Platform",
     image: charityImage,
-    link: "https://example.com/charity",
+    link: "https://github.com/MoneeC02/First-React-Project",
   },
   {
     title: "CRUD System",
     image: crudImage,
-    link: "https://example.com/crud",
+    link: "https://github.com/MoneeC02/CRUD",
   },
 ];
 
